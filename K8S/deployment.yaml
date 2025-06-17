@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: node-app
-        image: docker.io/chetansk7/node-argocd:v1
+        image: docker.io/chetansk7/node-argcd:v1
         ports:
         - containerPort: 3000
